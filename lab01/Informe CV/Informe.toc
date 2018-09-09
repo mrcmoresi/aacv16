@@ -1,0 +1,12 @@
+\select@language {spanish}
+\select@language {spanish}
+\contentsline {section}{\numberline {1}Introducci\IeC {\'o}n}{1}{section.1}
+\contentsline {section}{\numberline {2}Consignas}{1}{section.2}
+\contentsline {section}{\numberline {3}Ejercicios}{2}{section.3}
+\contentsline {subsection}{\numberline {3.1}Ejercicio 1}{2}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Ejercicio 2}{4}{subsection.3.2}
+\contentsline {subsection}{\numberline {3.3}Ejercicio 3}{7}{subsection.3.3}
+\contentsline {subsection}{\numberline {3.4}Ejercicio 4}{8}{subsection.3.4}
+\contentsline {section}{\numberline {4}Conclusi\IeC {\'o}n}{9}{section.4}
+\contentsline {section}{\numberline {5}Bibliograf\IeC {\'\i }a}{9}{section.5}
+\contentsline {section}{\numberline {6}Referencias}{9}{section.6}
